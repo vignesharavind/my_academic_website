@@ -1,7 +1,5 @@
-- name: regmedint
-  description: Regression-based causal mediation analysis with a treatment-mediator interaction term.
-  link: https://cran.r-project.org/web/packages/regmedint/index.html
-  type: R package
+- name: MATLAB
+  type: Curve Fitting, Image & Signal Processing, Classification & Regression.
   domain: Statistics
 - name: Qualtrics Mousetracker
   description: Software in R, Javascript, and Qualtrics to design and analyze psychology experiments that use fine-grained mouse-tracking measures of perceptual category competition.
