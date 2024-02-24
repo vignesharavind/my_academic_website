@@ -1,32 +1,45 @@
 #
-# --------------------------- 2021 ---------------------------
+# --------------------------- 2023 ---------------------------
 #
-- id: Mathur2021a
-  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. Appetite. In press."
-  year: 2021
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/bc2wy/"
-  datarepo: "https://osf.io/8zsw7/"
+- id: VigneshAravind 2023
+  text: "Venkatramanan G Rao, Vignesharavind Subramanianbalachandar, Magdalena M Magaj, Stefanie Redemann, Saurabh S Kulkarni (2023). Mechanisms of cilia regeneration in Xenopus multiciliated epithelium in vivo."
+  year: 2023
+  type: "Journal article"
+  authorship: "second"
+  status: "preprint"
+  preprint: " https://doi.org/10.1101/2023.06.14.544972/"
+  datarepo: 
   rpackagename:
   rpackagelink:
   webappname:
   webapplink:
-  doi:
-- id: Mathur2021b
-  text: "Mathur MB & VanderWeele TJ (under revision). Meta-Regression Methods to Characterize Evidence Strength Using Meaningful-Effect Percentages Conditional on Study Characteristics."
-  year: 2021
-  type: "methods"
+  doi: " https://doi.org/10.1101/2023.06.14.544972"
+- id: VigneshAravind 2023
+  text: "VigneshAravind SubramanianBalachandar; Md. Mydul Islam; R.L. Steward (2023). A machine learning approach to predict cellular mechanical stresses in response to chemical perturbation."
+  year: 2023
+  type: "Journal article"
   authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/bmtdq/"
-  datarepo: "https://osf.io/gs7fp/"
+  status: "published"
+  preprint: "https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  datarepo: 
   rpackagename:
   rpackagelink:
   webappname:
   webapplink:
-  doi:
+  doi: "https://doi.org/10.1016/j.bpj.2023.07.016"
+- id: VigneshAravind 2023
+  text: "Vignesh Aravind Subramanian Balachandar, Robert L Steward Jr. Extracellular matrix composition alters endothelial force transmission."
+  year: 2023
+  type: "Cell Physiology"
+  authorship: "first"
+  status: "Published"
+  preprint: "https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "https://doi.org/10.1152/ajpcell.00106.2023"
 #
 # --------------------------- 2020 ---------------------------
 #
