@@ -4,9 +4,13 @@ layout: academic
 author_profile: true
 ---
 
-I am a professor at the Department at the University.
+I am a Postdoc in the Department of Cell Biology at the University of Virginia.
 
 My research interests include:
 
-- Statistics
-- Machine learning
+-Particle Image Velocimetry
+-Image Processing
+-Solid Mechanics
+-Statistics
+-Machine learning
+-Deep Learning
