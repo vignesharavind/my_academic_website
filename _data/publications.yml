@@ -56,7 +56,7 @@
   webappname:
   webapplink: 
   doi: "https://doi.org/10.1002/cm.21687"
-  - id: VigneshAravind2021
+- id: VigneshAravind2021
   text: "Vignesh A Subramanianbalachandar (2021). Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning."
   year: 2021
   type: "Dissertation"
