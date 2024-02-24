@@ -41,29 +41,42 @@
   webapplink:
   doi: "https://doi.org/10.1152/ajpcell.00106.2023"
 #
-# --------------------------- 2020 ---------------------------
+# --------------------------- 2021 ---------------------------
 #
-- id: Mathur2020
-  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
-  year: 2020
-  type: "methods"
+- id: VigneshAravind2021
+  text: "Dilshan Ranadewa, Jingwen Wu, Vignesh A Subramanianbalachandar, Robert L Steward Jr (2021). Variable fluid flow regimes alter human brain microvascular endothelial c ell–cell junctions and cytoskeletal structure."
+  year: 2021
+  type: "Journal article"
+  authorship: "third"
+  status: "published"
+  preprint:
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname:
+  webapplink: 
+  doi: "https://doi.org/10.1002/cm.21687"
+  - id: VigneshAravind2021
+  text: "Vignesh A Subramanianbalachandar (2021). Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning."
+  year: 2021
+  type: "Dissertation"
   authorship: "first"
   status: "published"
   preprint:
-  datarepo: "https://osf.io/2r3gm/"
-  rpackagename: "EValue"
-  rpackagelink: "https://CRAN.R-project.org/package=EValue"
-  webappname: "EValue Calculator"
-  webapplink: "https://www.evalue-calculator.com/meta/"
-  doi: "10.1080/01621459.2018.1529598"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname:
+  webapplink: 
+  doi: "https://stars.library.ucf.edu/etd2020/769"
 #
-# --------------------------- 2016 ---------------------------
+# --------------------------- 2020 ---------------------------
 #
-- id: Mummah2016
-  text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. JMIR mHealth and uHealth, 4(2), e51."
-  year: 2016
+- id: VigneshAravind2020
+  text: "Vignesharavind Subramanianbalachandar, Robert Steward (2020). Stiffness Decouples Cellular Mechanosensation."
+  year: 2020
   type: "methods"
-  authorship: "middle"
+  authorship: "first"
   status: "published"
   preprint:
   datarepo:
@@ -71,4 +84,4 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: "10.2196/mhealth.5146"
+  doi: "10.1016/j.bpj.2020.06.008"
