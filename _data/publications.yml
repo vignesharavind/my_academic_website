@@ -1,56 +1,82 @@
 #
+# --------------------------- 2023 ---------------------------
+#
+- id: VigneshAravind 2023
+  text: "Venkatramanan G Rao, Vignesharavind Subramanianbalachandar, Magdalena M Magaj, Stefanie Redemann, Saurabh S Kulkarni (2023). Mechanisms of cilia regeneration in Xenopus multiciliated epithelium in vivo."
+  year: 2023
+  type: "Journal article"
+  authorship: "second"
+  status: "preprint"
+  preprint: " https://doi.org/10.1101/2023.06.14.544972/"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: " https://doi.org/10.1101/2023.06.14.544972"
+- id: VigneshAravind 2023
+  text: "VigneshAravind SubramanianBalachandar; Md. Mydul Islam; R.L. Steward (2023). A machine learning approach to predict cellular mechanical stresses in response to chemical perturbation."
+  year: 2023
+  type: "Journal article"
+  authorship: "first"
+  status: "published"
+  preprint: "https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "https://doi.org/10.1016/j.bpj.2023.07.016"
+- id: VigneshAravind 2023
+  text: "Vignesh Aravind Subramanian Balachandar, Robert L Steward Jr. Extracellular matrix composition alters endothelial force transmission."
+  year: 2023
+  type: "Cell Physiology"
+  authorship: "first"
+  status: "Published"
+  preprint: "https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
+  datarepo:
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi: "https://doi.org/10.1152/ajpcell.00106.2023"
+#
 # --------------------------- 2021 ---------------------------
 #
-- id: Mathur2021a
-  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. Appetite. In press."
+- id: VigneshAravind2021
+  text: "Dilshan Ranadewa, Jingwen Wu, Vignesh A Subramanianbalachandar, Robert L Steward Jr (2021). Variable fluid flow regimes alter human brain microvascular endothelial c ell–cell junctions and cytoskeletal structure."
   year: 2021
-  type: "empirical"
-  authorship: "first"
-  status: "inpress"
-  preprint: "https://osf.io/bc2wy/"
-  datarepo: "https://osf.io/8zsw7/"
+  type: "Journal article"
+  authorship: "third"
+  status: "published"
+  preprint:
+  datarepo: 
   rpackagename:
-  rpackagelink:
+  rpackagelink: 
   webappname:
-  webapplink:
-  doi:
-- id: Mathur2021b
-  text: "Mathur MB & VanderWeele TJ (under revision). Meta-Regression Methods to Characterize Evidence Strength Using Meaningful-Effect Percentages Conditional on Study Characteristics."
+  webapplink: 
+  doi: "https://doi.org/10.1002/cm.21687"
+  - id: VigneshAravind2021
+  text: "Vignesh A Subramanianbalachandar (2021). Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning."
   year: 2021
-  type: "methods"
-  authorship: "first"
-  status: "inprep"
-  preprint: "https://osf.io/bmtdq/"
-  datarepo: "https://osf.io/gs7fp/"
-  rpackagename:
-  rpackagelink:
-  webappname:
-  webapplink:
-  doi:
-#
-# --------------------------- 2020 ---------------------------
-#
-- id: Mathur2020
-  text: "Mathur MB & VanderWeele TJ (2020). Sensitivity analysis for unmeasured confounding in meta-analyses. Journal of the American Statistical Association, 115(529), 163-170."
-  year: 2020
-  type: "methods"
+  type: "Dissertation"
   authorship: "first"
   status: "published"
   preprint:
-  datarepo: "https://osf.io/2r3gm/"
-  rpackagename: "EValue"
-  rpackagelink: "https://CRAN.R-project.org/package=EValue"
-  webappname: "EValue Calculator"
-  webapplink: "https://www.evalue-calculator.com/meta/"
-  doi: "10.1080/01621459.2018.1529598"
+  datarepo: 
+  rpackagename:
+  rpackagelink: 
+  webappname:
+  webapplink: 
+  doi: "https://stars.library.ucf.edu/etd2020/769"
 #
-# --------------------------- 2016 ---------------------------
+# --------------------------- 2020 ---------------------------
 #
-- id: Mummah2016
-  text: "Mummah, SA, Mathur MB, King AC, Gardner CD, Sutton S (2016). Mobile technology for vegetable consumption: a randomized controlled pilot study in overweight adults. JMIR mHealth and uHealth, 4(2), e51."
-  year: 2016
+- id: VigneshAravind2020
+  text: "Vignesharavind Subramanianbalachandar, Robert Steward (2020). Stiffness Decouples Cellular Mechanosensation."
+  year: 2020
   type: "methods"
-  authorship: "middle"
+  authorship: "first"
   status: "published"
   preprint:
   datarepo:
@@ -58,4 +84,4 @@
   rpackagelink:
   webappname:
   webapplink:
-  doi: "10.2196/mhealth.5146"
+  doi: "10.1016/j.bpj.2020.06.008"
