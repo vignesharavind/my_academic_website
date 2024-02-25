@@ -22,8 +22,8 @@ name                     : "Vignesh Aravind SB"
 description:  > # this means to ignore newlines until "baseurl:"
   Research on machine learning, experimental design, economic inequality, and optimal policy
 url                      : "https://vignesharavind.github.io/my_academic_website/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/academic-website-template" # the subpath of your site, e.g. "/blog", use "/" if root
-repository               : "vignesharavind/academic-website-template" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/my_academic_website" # the subpath of your site, e.g. "/blog", use "/" if root
+repository               : "vignesharavind/my_academic_website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/avatar.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -281,4 +281,3 @@ defaults:
   values:
     layout: single
     author_profile: true
-  
