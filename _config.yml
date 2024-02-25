@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jane Doe"
+title                    : "Vignesh"
 title_separator          : "-"
-name                     : "Jane Doe"
+name                     : "Vignesh Aravind SB"
 description:  > # this means to ignore newlines until "baseurl:"
   Research on machine learning, experimental design, economic inequality, and optimal policy
-url                      : "https://psolymos.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vignesharavind.github.io/my_academic_website/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/academic-website-template" # the subpath of your site, e.g. "/blog", use "/" if root
-repository               : "psolymos/academic-website-template" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "vignesharavind/academic-website-template" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/avatar.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -101,17 +101,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jane Doe"
+  name             : "Vignesh Aravind"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Professor, Department, University"
+  bio              : "Postdoctoral Associate, University of Virginia"
   location         : "City, Country"
   email            : "jane.doe@uni.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  github           : "mayamathur"
-  twitter          : "_MMathur"
-  googlescholar    : "vmuNN1sAAAAJ"
-  opensciencefr    : "e9tg8"
+  github           : "vignesharavinds"
+  twitter          : 
+  googlescholar    : "vignesh aravind"
+  opensciencefr    : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -123,7 +123,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "jane-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/jane-doe-12345678)
+  linkedin         : "vignesh-subramanian-73411aa2" #(the last part of your profile url, e.g. https://www.linkedin.com/in/jane-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
