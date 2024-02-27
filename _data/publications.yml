@@ -8,6 +8,8 @@
   authorship: "second"
   status: "preprint"
   preprint: "https://doi.org/10.1101/2023.06.14.544972"
+  article:
+  thesis:
   datarepo: 
   rpackagename:
   rpackagelink:
@@ -20,8 +22,9 @@
   type: "Journal article"
   authorship: "first"
   status: "published"
-  published: "https://doi.org/10.1152/ajpcell.00106.2023"
-  #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  article: "https://doi.org/10.1152/ajpcell.00106.2023"
+  thesis:
   datarepo: 
   rpackagename:
   rpackagelink:
@@ -34,8 +37,9 @@
   type: "Cell Physiology"
   authorship: "first"
   status: "published"
-  #preprint: "https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
-  published: "https://doi.org/10.1152/ajpcell.00106.2023"
+  preprint: #"https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
+  article: "https://doi.org/10.1152/ajpcell.00106.2023"
+  thesis:
   datarepo:
   rpackagename:
   rpackagelink:
@@ -52,6 +56,8 @@
   authorship: "third"
   status: "published"
   preprint:
+  article: "https://doi.org/10.1002/cm.21687"
+  thesis:
   datarepo: 
   rpackagename:
   rpackagelink: 
@@ -65,12 +71,14 @@
   authorship: "first"
   status: "published"
   preprint:
+  article:
+  thesis: "https://stars.library.ucf.edu/etd2020/769"
   datarepo: 
   rpackagename:
   rpackagelink: 
   webappname:
   webapplink: 
-  doi: "https://stars.library.ucf.edu/etd2020/769"
+  doi: #"https://stars.library.ucf.edu/etd2020/769"
 #
 # --------------------------- 2020 ---------------------------
 #
@@ -81,9 +89,11 @@
   authorship: "first"
   status: "published"
   preprint:
+  article: "https://doi.org/10.1016/j.bpj.2020.06.008"
+  thesis:
   datarepo:
   rpackagename:
   rpackagelink:
   webappname:
-  webapplink: "https://doi.org/10.1016/j.bpj.2020.06.008"
+  webapplink: #"https://doi.org/10.1016/j.bpj.2020.06.008"
   doi: "https://doi.org/10.1016/j.bpj.2020.06.008"
