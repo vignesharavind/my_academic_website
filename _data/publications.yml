@@ -20,8 +20,8 @@
   type: "Journal article"
   authorship: "first"
   status: "published"
-  #preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
-  Article: "https://doi.org/10.1152/ajpcell.00106.2023"
+  published: "https://doi.org/10.1152/ajpcell.00106.2023"
+  #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
   datarepo: 
   rpackagename:
   rpackagelink:
@@ -33,9 +33,9 @@
   year: 2023
   type: "Cell Physiology"
   authorship: "first"
-  status: "Published"
+  status: "published"
   #preprint: "https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
-  Article: "https://doi.org/10.1152/ajpcell.00106.2023"
+  published: "https://doi.org/10.1152/ajpcell.00106.2023"
   datarepo:
   rpackagename:
   rpackagelink:
