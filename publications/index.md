@@ -18,12 +18,16 @@ author_profile: true
       <ul>
         <li class="checkboxlist">
         Type
-        <label class="container">Empirical
-            <input type="checkbox" v-model="show.empirical">
+        <label class="container">Article
+            <input type="checkbox" v-model="show.article">
             <span class="checkmark"></span>
         </label>
-        <label class="container">Methods
-            <input type="checkbox" v-model="show.methods">
+        <label class="container">Commentary
+            <input type="checkbox" v-model="show.commentary">
+            <span class="checkmark"></span>
+        </label>
+        <label class="container">Thesis
+            <input type="checkbox" v-model="show.thesis">
             <span class="checkmark"></span>
         </label>
         </li>
@@ -96,12 +100,13 @@ const app = Vue.createApp({
     pubs: p,
     allyears: yrs,
     show: {
-        empirical: true,
-        methods: true,
+        article: true,
+        commentary: true,
         first: true,
         last: true,
         published: true,
         inprep: true,
+        thesis: true,
     },
   }),
   computed: {
@@ -110,9 +115,11 @@ const app = Vue.createApp({
         for (i = 0; i < this.pubs.length; i++) {
             let add = false;
             // type
-            if (this.show.empirical && this.pubs[i].type == "empirical")
+            if (this.show.articlel && this.pubs[i].type == "article")
                 add = true;
-            if (this.show.methods && this.pubs[i].type == "methods")
+            if (this.show.commentary && this.pubs[i].type == "commentary")
+                add = true;
+            if (this.show.thesis && this.pubs[i].type == "thesis")
                 add = true;
             // authorship
             if (this.show.first && this.pubs[i].authorship == "first")
