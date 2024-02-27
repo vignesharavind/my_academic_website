@@ -7,20 +7,21 @@
   type: "Journal article"
   authorship: "second"
   status: "preprint"
-  preprint: " https://doi.org/10.1101/2023.06.14.544972/"
+  preprint: "https://doi.org/10.1101/2023.06.14.544972"
   datarepo: 
   rpackagename:
   rpackagelink:
   webappname:
   webapplink:
-  doi: " https://doi.org/10.1101/2023.06.14.544972"
+  doi: "https://doi.org/10.1101/2023.06.14.544972"
 - id: VigneshAravind2023
   text: "VigneshAravind SubramanianBalachandar; Md. Mydul Islam; R.L. Steward (2023). A machine learning approach to predict cellular mechanical stresses in response to chemical perturbation."
   year: 2023
   type: "Journal article"
   authorship: "first"
   status: "published"
-  preprint: "https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  #preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  Article: "https://doi.org/10.1152/ajpcell.00106.2023"
   datarepo: 
   rpackagename:
   rpackagelink:
@@ -33,7 +34,8 @@
   type: "Cell Physiology"
   authorship: "first"
   status: "Published"
-  preprint: "https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
+  #preprint: "https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
+  Article: "https://doi.org/10.1152/ajpcell.00106.2023"
   datarepo:
   rpackagename:
   rpackagelink:
