@@ -8,7 +8,7 @@
   authorship: "second"
   status: "preprint"
   preprint: "https://doi.org/10.1101/2023.06.14.544972"
-  article:
+  articlelink:
   thesis:
   datarepo: 
   rpackagename:
@@ -23,7 +23,7 @@
   authorship: "first"
   status: "published"
   preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
-  article: "https://doi.org/10.1152/ajpcell.00106.2023"
+  articlelink: "https://doi.org/10.1152/ajpcell.00106.2023"
   thesis:
   datarepo: 
   rpackagename:
@@ -38,7 +38,7 @@
   authorship: "first"
   status: "published"
   preprint: #"https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
-  article: "https://doi.org/10.1152/ajpcell.00106.2023"
+  articlelink: "https://doi.org/10.1152/ajpcell.00106.2023"
   thesis:
   datarepo:
   rpackagename:
@@ -56,7 +56,7 @@
   authorship: "third"
   status: "published"
   preprint:
-  article: "https://doi.org/10.1002/cm.21687"
+  articlelink: "https://doi.org/10.1002/cm.21687"
   thesis:
   datarepo: 
   rpackagename:
@@ -71,7 +71,7 @@
   authorship: "first"
   status: "published"
   preprint:
-  article:
+  articlelink:
   thesis: "https://stars.library.ucf.edu/etd2020/769"
   datarepo: 
   rpackagename:
@@ -89,7 +89,7 @@
   authorship: "first"
   status: "published"
   preprint:
-  article: "https://doi.org/10.1016/j.bpj.2020.06.008"
+  articlelink: "https://doi.org/10.1016/j.bpj.2020.06.008"
   thesis:
   datarepo:
   rpackagename:
