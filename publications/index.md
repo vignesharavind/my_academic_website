@@ -55,7 +55,7 @@ author_profile: true
       <h2>{{ yr }}</h2>
       <ul class="publist">
         <div v-for="pub in publ.filter(a => (a.year === yr))">
-          <li class="publist">{{ pub.text }}<span v-if="pub.preprint != ''"> &mdash; <a v-bind:href="pub.preprint">Preprint</a></span><span v-if="pub.datarepo != ''"> &mdash; <a v-bind:href="pub.datarepo">Data repository</a></span><span v-if="pub.rpackagename != ''"> &mdash; <a v-bind:href="pub.rpackagelink">{{ pub.rpackagename }}</a></span><span v-if="pub.webappname != ''"> &mdash; <a v-bind:href="pub.webapplink">{{ pub.webappname }}</a></span><span v-if="pub.doi != ''">&nbsp;<div data-badge-popover="bottom" style="display: inline-block;" data-badge-type="4" v-bind:data-doi="pub.doi" data-hide-no-mentions="true" class="altmetric-embed"></div></span></li>
+          <li class="publist">{{ pub.text }}<span v-if="pub.preprint != ''"> &mdash; <a v-bind:href="pub.preprint">Preprint</a></span><span v-if="pub.article != ''"> &mdash; <a v-bind:href="pub.article">Article</a></span><span v-if="pub.thesis != ''"> &mdash; <a v-bind:href="pub.thesis">Thesis</a></span><span v-if="pub.datarepo != ''"> &mdash; <a v-bind:href="pub.datarepo">Data repository</a></span><span v-if="pub.rpackagename != ''"> &mdash; <a v-bind:href="pub.rpackagelink">{{ pub.rpackagename }}</a></span><span v-if="pub.webappname != ''"> &mdash; <a v-bind:href="pub.webapplink">{{ pub.webappname }}</a></span><span v-if="pub.doi != ''">&nbsp;<div data-badge-popover="bottom" style="display: inline-block;" data-badge-type="4" v-bind:data-doi="pub.doi" data-hide-no-mentions="true" class="altmetric-embed"></div></span></li>
         </div>
       </ul>
     </div>
@@ -73,6 +73,8 @@ var p = [
           "authorship": "{{ ms.authorship }}",
           "status": "{{ ms.status }}",
           "preprint": "{{ ms.preprint }}",
+          "article": "{{ ms.article }}",
+          "thesis": "{{ ms.thesis }}",
           "datarepo": "{{ ms.datarepo }}",
           "rpackagename": "{{ ms.rpackagename }}",
           "rpackagelink": "{{ ms.rpackagelink }}",
