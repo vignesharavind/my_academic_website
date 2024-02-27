@@ -4,7 +4,7 @@
 - id: VigneshAravind2023
   text: "Venkatramanan G Rao, Vignesharavind Subramanianbalachandar, Magdalena M Magaj, Stefanie Redemann, Saurabh S Kulkarni (2023). Mechanisms of cilia regeneration in Xenopus multiciliated epithelium in vivo."
   year: 2023
-  type: "Journal article"
+  type: "article"
   authorship: "second"
   status: "preprint"
   preprint: "https://doi.org/10.1101/2023.06.14.544972"
@@ -19,7 +19,7 @@
 - id: VigneshAravind2023
   text: "VigneshAravind SubramanianBalachandar; Md. Mydul Islam; R.L. Steward (2023). A machine learning approach to predict cellular mechanical stresses in response to chemical perturbation."
   year: 2023
-  type: "Journal article"
+  type: "article"
   authorship: "first"
   status: "published"
   preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
@@ -34,7 +34,7 @@
 - id: VigneshAravind2023
   text: "Vignesh Aravind Subramanian Balachandar, Robert L Steward Jr. Extracellular matrix composition alters endothelial force transmission."
   year: 2023
-  type: "Cell Physiology"
+  type: "article"
   authorship: "first"
   status: "published"
   preprint: #"https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
@@ -52,7 +52,7 @@
 - id: VigneshAravind2021
   text: "Dilshan Ranadewa, Jingwen Wu, Vignesh A Subramanianbalachandar, Robert L Steward Jr (2021). Variable fluid flow regimes alter human brain microvascular endothelial c ell–cell junctions and cytoskeletal structure."
   year: 2021
-  type: "Journal article"
+  type: "article"
   authorship: "third"
   status: "published"
   preprint:
@@ -67,7 +67,7 @@
 - id: VigneshAravind2021
   text: "Vignesh A Subramanianbalachandar (2021). Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning."
   year: 2021
-  type: "Dissertation"
+  type: "dissertation"
   authorship: "first"
   status: "published"
   preprint:
@@ -85,7 +85,7 @@
 - id: VigneshAravind2020
   text: "Vignesharavind Subramanianbalachandar, Robert Steward (2020). Stiffness Decouples Cellular Mechanosensation."
   year: 2020
-  type: "methods"
+  type: "commentary"
   authorship: "first"
   status: "published"
   preprint:
