@@ -29,7 +29,7 @@ author_profile: true
         </li>
         <li class="checkboxlist">
             Authorship
-            <label class="container">Fist
+            <label class="container">First
                 <input type="checkbox" v-model="show.first">
                 <span class="checkmark"></span>
             </label>
