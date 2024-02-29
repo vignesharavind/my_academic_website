@@ -143,6 +143,6 @@ Worked as a notetaker for people with disability at the University of Central Fl
 
 **Data Processing:** Tableau, SQL
 
-**Technical:** MATLAB (Particle Image Velocimetry, Soft Physics,Traction Force  Microscopy), ImageJ2-Fiji (Confocal image, FLIM, and FRET data analysis), Python & MATLAB (Machine Learning & Deep Learning)
+**Technical:** MATLAB (Particle Image Velocimetry, Soft Physics, Traction Force  Microscopy), ImageJ2-Fiji (Confocal image, FLIM, and FRET data analysis), Python & MATLAB (Machine Learning, Deep Learning)
 
 **Mechanical Design and Analysis:** SOLIDWORKS 2016, ANSYS
