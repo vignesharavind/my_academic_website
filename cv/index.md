@@ -130,7 +130,7 @@ Coordinator of ‘Auto Quiz’ technical event for the Mechanical Engineering de
 **Student Accessibility Services:** Notetaker, Orlando, 2016-2017
 Worked as a notetaker for people with disability at the University of Central Florida
 
-## _LANGUAGES:_
+## LANGUAGES:
 
 **Tamil:** Native Language
 **English:** Professional Proficiency (Listening/Speaking/Reading/Writing)
@@ -146,4 +146,3 @@ Worked as a notetaker for people with disability at the University of Central Fl
 **Technical:** MATLAB (Particle Image Velocimetry, Soft Physics,Traction Force  Microscopy), ImageJ2-Fiji (Confocal image, FLIM, and FRET data analysis), Python & MATLAB (Machine Learning & Deep Learning)
 
 **Mechanical Design and Analysis:** SOLIDWORKS 2016, ANSYS
-
