@@ -5,21 +5,18 @@ author_profile: true
 ---
 ## EDUCATION
 
-**PhD** University of Central Florida, Mechanical Engineering                                 August 2018 – August 2021
-	                                                                                            GPA – 3.86	
+**PhD** University of Central Florida, Mechanical Engineering &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2018 – August 2021 &ensp;&ensp;&ensp; GPA – 3.86	
 
 **Dissertation:** “Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning”
 
 **Committee:** Dr. Robert L. Steward Jr. (chair), Dr. Luigi Perotti, Dr. Dazhong Wu, Dr. Ellen Kang (External)
 
-**MS**	University of Central Florida, Mechanical Engineering                                 August 2015 - May 2017
-	                                                                                            GPA – 3.77					
+**MS**	University of Central Florida, Mechanical Engineering  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2015 - May 2017 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.77					
 
-**BS**	Anna University, Mechanical Engineering                                               August 2011 -  May 2015
-	                                                                                            GPA – 3.74
+**BS**	Anna University, Mechanical Engineering  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2011 -  May 2015 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.74
 ## RESEARCH EXPERIENCE:
 
-**Department of Cell Biology, University of Virginia, Charlottesville, VA                     August 2021 to Present**
+**Department of Cell Biology, University of Virginia, Charlottesville, VA  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2021 to Present**
 
 Supervisor: Dr. Saurabh Kulkarni
 
@@ -31,7 +28,7 @@ Supervisor: Dr. Saurabh Kulkarni
 
 **Technical Skills:** Immunostaining, Confocal Microscopy, Particle Image Velocimetry, Machine Learning, Microinjection, Explant preparation
 
-**Cell Mechanics Lab, University of Central Florida, Lake Nona, FL                            August 2018 to 2021**                                                 
+**Cell Mechanics Lab, University of Central Florida, Lake Nona, FL  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2018 to 2021**                                          
 
 Advisor: Dr. Robert L. Steward Jr.
 
@@ -55,7 +52,7 @@ Advisor: Dr. Robert L. Steward Jr.
 
 **Technical Skills:** Traction Force Microscopy, Monolayer Stress Microscopy, Cell Mechanics, Cell culture, MATLAB, Image processing, Machine Learning
 
-**Interventional Robotics Laboratory, University of Central Florida                           2017 to 2018**
+**Interventional Robotics Laboratory, University of Central Florida &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 2017 to 2018**
 
 Advisor: Dr. Sang-Eun Song
 
@@ -69,9 +66,9 @@ Advisor: Dr. Sang-Eun Song
 
 **Technical Skills:** Mechanical Design, Statistical and Data Analysis
 
-## UNDERGRADUATE PROJECTS:
+## UNDERGRADUATE PROJECTS: 
 
-**Velammal Engineering College,                                                               Chennai 2014**
+**Velammal Engineering College, &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Chennai 2014**
 
 **Automatic Pick and Place Robot for Palletizing (Jan’ – Apr’ 2014)**
 
@@ -111,11 +108,11 @@ Advisor: Dr. Sang-Eun Song
 
 ## HONORS AND AWARDS:
 
-**Oral Presentation: Annual Meeting October 2021 Biomedical Engineering Society (BMES)        October 2021**
+**Oral Presentation: Annual Meeting October 2021 Biomedical Engineering Society (BMES) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; October 2021**
 
 V.A. Subramanianbalachandar, and Robert Steward Jr. “Prediction of Cellular Stresses in Response to Pharmacological Perturbation using Machine Learning”. Conference: Biomedical Engineering Society (BMES), 
 
-**UCF MAE Research Week Poster Presentation                                                   April 2021**
+**UCF MAE Research Week Poster Presentation &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; April 2021**
 
 Featured as one of the top 5 Poster Presentations in the UCF MAE Research Week.
 **Topic:** *“Extracellular Matrix Composition Alters Endothelial Cell Mechanics”*
@@ -128,7 +125,7 @@ Member of Society of automotive engineers, India (2011-15)
 
 Volunteer, 7th international conference organized by English Language Teacher's Association of India (2012)
 
-## PROFESSIONAL AFFILIATIONS:
+## PROFESSIONAL SERVICE:
 
 **Symposium Co-Organizer**
 Coordinator of ‘Auto Quiz’ technical event for the Mechanical Engineering department symposium Deus Ex Machina 11 (2014)
