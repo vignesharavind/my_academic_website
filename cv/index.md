@@ -1,5 +1,5 @@
 ---
-title: Vignesh CV
+title: Vignesh
 layout: academic
 author_profile: true
 ---
@@ -75,8 +75,10 @@ Advisor: Dr. Sang-Eun Song
 
 **Automatic Pick and Place Robot for Palletizing (Jan’ – Apr’ 2014)**
 
-•	Designed a 3-DOF robotic arm using PRO-E and the fabrication of the arm was done in the machining lab using cutting and drilling machines 
+•	Designed a 3-DOF robotic arm using PRO-E and the fabrication of the arm was done in the machining lab using cutting and drilling machines
+
 •	Controlled the prototype using ATmega328p microcontroller with the end effector actuated by a servo motor involving ‘Bell Crank Lever Mechanism’. Used Arduino prototyping platform to control the actuators
+
 •	Established the force plots of gripper using ADAMS software to demonstrate efficient and stable functioning of arm 
 
 ## PROFESSIONAL TRAINING:
@@ -84,14 +86,18 @@ Advisor: Dr. Sang-Eun Song
 **Internship, Hyundai Motor India Limited, [Dec’14 – Apr’15]**
 
 •	Designed an Automated Pallet Unlocking System in PRO-E and fabricated the prototype in the machining shop using cutting, welding, drilling and milling machines
+
 •	Controlled the servo motors, wiper motors, switches, and motor driver using an InduinoX Board (Arduino based)
+
 •	Implementation of the prototype improved the workflow of material dispatching process in the manufacturing & assembly plant and reduced cycle time by 5.147% which was shown in the micro-motion study
+
 •	Redesigned hoist tool and jigs in transmission shop using ANSYS to help reduce tool failure by 78% and increase assembly efficiency by 1.12%
 
 
 **Trainee, Sundaram Motors, [Dec’13]**
 
 •	Studied the mechanical parts in cars from General Motors franchise 
+
 •	Gained hands-on experience in engine & gear shaft assembly, and installation of disc and drum brakes
 
                                                                                            
@@ -117,7 +123,9 @@ Featured as one of the top 5 Poster Presentations in the UCF MAE Research Week.
 ## PROFESSIONAL AFFILIATIONS:
 
 Biomedical Engineering Society (BMES, 2021-22)
+
 Member of Society of automotive engineers, India (2011-15)
+
 Volunteer, 7th international conference organized by English Language Teacher's Association of India (2012)
 
 ## PROFESSIONAL AFFILIATIONS:
@@ -133,6 +141,7 @@ Worked as a notetaker for people with disability at the University of Central Fl
 ## LANGUAGES:
 
 **Tamil:** Native Language
+
 **English:** Professional Proficiency (Listening/Speaking/Reading/Writing)
 
 ## COMPUTER SKILLS:
