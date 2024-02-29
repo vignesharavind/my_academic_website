@@ -2,11 +2,11 @@
 main:
   - title: Publications
     url: /publications/
-  - title: Teaching
-    url: /teaching/
-  - title: Code
-    url: /code/
+  #- title: Teaching
+  #  url: /teaching/
+  #- title: Code
+  #  url: /code/
   - title: CV
     url: /cv/
-  - title: Test
-    url: /Test/
+  #- title: Test
+  #  url: /Test/
