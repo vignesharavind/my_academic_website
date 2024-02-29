@@ -5,8 +5,8 @@ author_profile: true
 ---
 ## EDUCATION
 
-**PhD** University of Central Florida, Mechanical Engineering                                                            August 2018 – August 2021 
-                                                                                                                         GPA – 3.86	
+**PhD** University of Central Florida, Mechanical Engineering 
+August 2018 – August 2021 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.86	
 
 **Dissertation:** “Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning”
 
