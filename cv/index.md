@@ -7,7 +7,7 @@ author_profile: true
 
 **PhD** University of Central Florida, Mechanical Engineering 
 
-August 2018 – August 2021 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.86	
+August 2018 – August 2021 &ensp;&ensp;&ensp; GPA – 3.86	
 
 **Dissertation:** “Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning”
 
@@ -22,7 +22,7 @@ August 2015 - May 2017 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.77
 August 2011 -  May 2015 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.74
 ## RESEARCH EXPERIENCE:
 
-**Department of Cell Biology, University of Virginia, Charlottesville, VA &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2021 to Present** 
+**Department of Cell Biology, University of Virginia, Charlottesville, VA, August 2021 to Present** 
 
 Supervisor: Dr. Saurabh Kulkarni
 
@@ -34,7 +34,7 @@ Supervisor: Dr. Saurabh Kulkarni
 
 **Technical Skills:** Immunostaining, Confocal Microscopy, Particle Image Velocimetry, Machine Learning, Microinjection, Explant preparation
 
-**Cell Mechanics Lab, University of Central Florida, Lake Nona, FL  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; August 2018 to 2021**                                          
+**Cell Mechanics Lab, University of Central Florida, Lake Nona, FL, August 2018 to 2021**                                          
 
 Advisor: Dr. Robert L. Steward Jr.
 
@@ -58,7 +58,7 @@ Advisor: Dr. Robert L. Steward Jr.
 
 **Technical Skills:** Traction Force Microscopy, Monolayer Stress Microscopy, Cell Mechanics, Cell culture, MATLAB, Image processing, Machine Learning
 
-**Interventional Robotics Laboratory, University of Central Florida &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 2017 to 2018**
+**Interventional Robotics Laboratory, University of Central Florida, 2017 to 2018**
 
 Advisor: Dr. Sang-Eun Song
 
@@ -74,9 +74,9 @@ Advisor: Dr. Sang-Eun Song
 
 ## UNDERGRADUATE PROJECTS: 
 
-**Velammal Engineering College, &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Chennai 2014**
+**Velammal Engineering College, Chennai 2014**
 
-**Automatic Pick and Place Robot for Palletizing (Jan’ – Apr’ 2014)**
+**Automatic Pick and Place Robot for Palletizing, [Jan’ – Apr’ 2014]**
 
 •	Designed a 3-DOF robotic arm using PRO-E and the fabrication of the arm was done in the machining lab using cutting and drilling machines
 
@@ -114,11 +114,11 @@ Advisor: Dr. Sang-Eun Song
 
 ## HONORS AND AWARDS:
 
-**Oral Presentation: Annual Meeting October 2021 Biomedical Engineering Society (BMES) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; October 2021**
+**Oral Presentation: Annual Meeting October 2021 Biomedical Engineering Society (BMES), October 2021**
 
 V.A. Subramanianbalachandar, and Robert Steward Jr. “Prediction of Cellular Stresses in Response to Pharmacological Perturbation using Machine Learning”. Conference: Biomedical Engineering Society (BMES), 
 
-**UCF MAE Research Week Poster Presentation &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; April 2021**
+**UCF MAE Research Week Poster Presentation, April 2021**
 
 Featured as one of the top 5 Poster Presentations in the UCF MAE Research Week.
 **Topic:** *“Extracellular Matrix Composition Alters Endothelial Cell Mechanics”*
