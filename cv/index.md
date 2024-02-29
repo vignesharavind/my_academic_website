@@ -3,7 +3,7 @@ title: Vignesh CV
 layout: academic
 author_profile: true
 ---
-## Education
+## EDUCATION
 
 **PhD** University of Central Florida, Mechanical Engineering                                 August 2018 – August 2021
 	                                                                                            GPA – 3.86	
@@ -17,7 +17,7 @@ author_profile: true
 
 **BS**	Anna University, Mechanical Engineering                                               August 2011 -  May 2015
 	                                                                                            GPA – 3.74
-## Research Experience:
+## RESEARCH EXPERIENCE:
 
 **Department of Cell Biology, University of Virginia, Charlottesville, VA                     August 2021 to Present**
 
@@ -69,7 +69,81 @@ Advisor: Dr. Sang-Eun Song
 
 **Technical Skills:** Mechanical Design, Statistical and Data Analysis
 
+## UNDERGRADUATE PROJECTS:
 
+**Velammal Engineering College,                                                               Chennai 2014**
+
+**Automatic Pick and Place Robot for Palletizing (Jan’ – Apr’ 2014)**
+
+•	Designed a 3-DOF robotic arm using PRO-E and the fabrication of the arm was done in the machining lab using cutting and drilling machines 
+•	Controlled the prototype using ATmega328p microcontroller with the end effector actuated by a servo motor involving ‘Bell Crank Lever Mechanism’. Used Arduino prototyping platform to control the actuators
+•	Established the force plots of gripper using ADAMS software to demonstrate efficient and stable functioning of arm 
+
+## PROFESSIONAL TRAINING:
+
+**Internship, Hyundai Motor India Limited, [Dec’14 – Apr’15]**
+
+•	Designed an Automated Pallet Unlocking System in PRO-E and fabricated the prototype in the machining shop using cutting, welding, drilling and milling machines
+•	Controlled the servo motors, wiper motors, switches, and motor driver using an InduinoX Board (Arduino based)
+•	Implementation of the prototype improved the workflow of material dispatching process in the manufacturing & assembly plant and reduced cycle time by 5.147% which was shown in the micro-motion study
+•	Redesigned hoist tool and jigs in transmission shop using ANSYS to help reduce tool failure by 78% and increase assembly efficiency by 1.12%
+
+
+**Trainee, Sundaram Motors, [Dec’13]**
+
+•	Studied the mechanical parts in cars from General Motors franchise 
+•	Gained hands-on experience in engine & gear shaft assembly, and installation of disc and drum brakes
 
                                                                                            
+## CERTIFICATIONS:
+
+**Mechanical Design at the level of ASSOCIATE**, Dassault Systèmes, July 2017
+
+**Yellow Belt in Lean Six Sigma**, American Society for Quality, November 2016
+
+**Business English Certificate**, University of Cambridge, October 2012
+
+## HONORS AND AWARDS:
+
+**Oral Presentation: Annual Meeting October 2021 Biomedical Engineering Society (BMES)        October 2021**
+
+V.A. Subramanianbalachandar, and Robert Steward Jr. “Prediction of Cellular Stresses in Response to Pharmacological Perturbation using Machine Learning”. Conference: Biomedical Engineering Society (BMES), 
+
+**UCF MAE Research Week Poster Presentation                                                   April 2021**
+
+Featured as one of the top 5 Poster Presentations in the UCF MAE Research Week.
+**Topic:** *“Extracellular Matrix Composition Alters Endothelial Cell Mechanics”*
+
+## PROFESSIONAL AFFILIATIONS:
+
+Biomedical Engineering Society (BMES, 2021-22)
+Member of Society of automotive engineers, India (2011-15)
+Volunteer, 7th international conference organized by English Language Teacher's Association of India (2012)
+
+## PROFESSIONAL AFFILIATIONS:
+
+**Symposium Co-Organizer**
+Coordinator of ‘Auto Quiz’ technical event for the Mechanical Engineering department symposium Deus Ex Machina 11 (2014)
+
+## COMMUNITY SERVICE:
+
+**Student Accessibility Services:** Notetaker, Orlando, 2016-2017
+Worked as a notetaker for people with disability at the University of Central Florida
+
+## _LANGUAGES:_
+
+**Tamil:** Native Language
+**English:** Professional Proficiency (Listening/Speaking/Reading/Writing)
+
+## COMPUTER SKILLS:
+
+**Coding/Statistical Tools:**                                     
+*MATLAB:*  Curve Fitting, Image & Signal Processing, Classification & Regression
+*Python:* NumPy, Pandas, Matplotlib, TensorFlow, Keras
+
+**Data Processing:** Tableau, SQL
+
+**Technical:** MATLAB (Particle Image Velocimetry, Soft Physics,Traction Force  Microscopy), ImageJ2-Fiji (Confocal image, FLIM, and FRET data analysis), Python & MATLAB (Machine Learning & Deep Learning)
+
+**Mechanical Design and Analysis:** SOLIDWORKS 2016, ANSYS
 
