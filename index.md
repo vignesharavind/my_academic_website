@@ -8,14 +8,16 @@ I am a Postdoc in the Department of Cell Biology at the University of Virginia.
 
 My research interests include:
 
--Particle Image Velocimetry
+• Cell Mechanics
 
--Image Processing
+• Particle Image Velocimetry
 
--Solid Mechanics
+• Image Processing
 
--Statistics
+• Statistics
 
--Machine learning
+• Machine learning
 
--Deep Learning
+• Deep Learning
+
+• Solid Mechanics
