@@ -1,14 +1,14 @@
 ---
 slideinit: >-
-  <section markdown="1"
-  data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
-  markdown="1">
+  #<section markdown="1"
+  # data-background="https://vignesharavind.github.io/my_academic_website/img/slidebackground.png"><section
+  # markdown="1">
 vertical: </section><section markdown="1">
 horizontal: >-
-  </section></section><section markdown="1"
-  data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
-  markdown="1">
-layout: post
+  #</section></section><section markdown="1"
+  # data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
+  # markdown="1">
+layout: academic
 title: Automated Pallet Unlocking System in Tow Vehicles
 author: Vignesh
 tags: Project Industry Automation ProcessImprovement Design
@@ -19,7 +19,7 @@ visualworkflow: true
 ---
 <!-- Start Writing Below in Markdown -->
 
-<section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+#<section markdown="1" data-background="https://vignesharavind.github.io/my_academic_website/img/slidebackground.png"><section markdown="1">
 
 ## {{ page.title }}
 
