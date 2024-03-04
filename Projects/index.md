@@ -27,10 +27,10 @@ The 'Scotch Yoke' mechanism is chosen over various other mechanisms owing to its
 Final overview of the design is obtained by assembling the individual components together. The initial and final position of the key during various degrees of rotation of the crank is also shown.
 
 
-![Design_5.JPG]({{site.baseurl}}/tree/gh-pages/img/Pallet Unlocking/Design_5.JPG)
+![Design_5.JPG]({{site.baseurl}}/img/Pallet Unlocking/Design_5.JPG)
 <p align="center">Initial&Final Posistions, Front&Side Views</p>
 
-![Design_Isometric](/tree/gh-pages/img/Pallet Unlocking/Pic_4.jpg)
+![Design_Isometric](/img/Pallet Unlocking/Pic_4.jpg)
 <p align="center">Isometric view of the Setup</p>
 
 ## Fabrication of Parts
@@ -57,7 +57,7 @@ The various parts fabricated are listed below:
 
 The components are separately fabricated by above mentioned operations. A Pillow block is used to support the shaft and take up bending and tensile stresses.
 
-![Frame](/tree/gh-pages/img/Pallet Unlocking/Pic_5.jpg)
+![Frame](/img/Pallet Unlocking/Pic_5.jpg)
 <p align="center">Frame Used for Motor Mounting</p>
 
 The frame is made out of rectangular square tubes which are sent out as scrap. There are various slots provided in the frame to accommodate battery, motor stand, guide rods etc.
