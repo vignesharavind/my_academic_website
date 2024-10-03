@@ -1,4 +1,22 @@
 #
+# --------------------------- 2024 ---------------------------
+#
+- id: VigneshAravind2024
+  text: "Vignesharavind Subramanianbalachandar, Venkatramanan G Rao, Saurabh S Kulkarni (2024). Machine learning prediction of mesoscale ciliary flow in vivo."
+  year: 2024
+  type: "article"
+  authorship: "first"
+  status: "in preparation"
+  preprint: 
+  articlelink:
+  thesis:
+  datarepo: 
+  rpackagename:
+  rpackagelink:
+  webappname:
+  webapplink:
+  doi:
+#
 # --------------------------- 2023 ---------------------------
 #
 - id: VigneshAravind2023
@@ -23,7 +41,7 @@
   authorship: "first"
   status: "published"
   preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
-  articlelink: "https://doi.org/10.1152/ajpcell.00106.2023"
+  articlelink: "https://doi.org/10.1016/j.bpj.2023.07.016"
   thesis:
   datarepo: 
   rpackagename:
