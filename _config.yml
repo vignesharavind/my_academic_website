@@ -24,7 +24,7 @@ description:  > # this means to ignore newlines until "baseurl:"
 url                      : "https://vignesharavind.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/my_academic_website" # the subpath of your site, e.g. "/blog", use "/" if root
 repository               : "vignesharavind/my_academic_website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/Vignesh_DP.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/Vignesh_DP2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,7 +83,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/Vignesh_DP.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/Vignesh_DP2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Vignesh Aravind"
-  avatar           : "/assets/images/Vignesh_DP.jpg"
+  avatar           : "/assets/images/Vignesh_DP2.jpg"
   bio              : "Postdoctoral Associate, University of Virginia"
   location         : "Charlottesville, United States"
   email            : "vignesharavindsb@gmail.com"
