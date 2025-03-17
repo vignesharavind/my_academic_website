@@ -21,7 +21,7 @@
   type: "article"
   authorship: "second"
   status: "published"
-  preprint: #"https://doi.org/10.1038/s44319-025-00414-8"
+  preprint:
   articlelink: "https://doi.org/10.1038/s44319-025-00414-8"
   thesis:
   datarepo: 
@@ -36,7 +36,7 @@
   type: "article"
   authorship: "first"
   status: "published"
-  preprint: #"https://www.biorxiv.org/content/10.1101/2023.02.02.526750v1/"
+  preprint:
   articlelink: "https://doi.org/10.1016/j.bpj.2023.07.016"
   thesis:
   datarepo: 
@@ -51,7 +51,7 @@
   type: "article"
   authorship: "first"
   status: "published"
-  preprint: #"https://doi.org/10.21203/rs.3.rs-2499973/v1 /"
+  preprint:
   articlelink: "https://doi.org/10.1152/ajpcell.00106.2023"
   thesis:
   datarepo:
