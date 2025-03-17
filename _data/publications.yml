@@ -90,7 +90,7 @@
   rpackagelink: 
   webappname:
   webapplink: 
-  doi: #"https://stars.library.ucf.edu/etd2020/769"
+  doi:
 # --------------------------- 2020 ---------------------------
 - id: VigneshAravind2020
   text: "Vignesharavind Subramanianbalachandar, Robert Steward (2020). Stiffness Decouples Cellular Mechanosensation."
@@ -105,5 +105,5 @@
   rpackagename:
   rpackagelink:
   webappname:
-  webapplink: #"https://doi.org/10.1016/j.bpj.2020.06.008"
+  webapplink:
   doi: "https://doi.org/10.1016/j.bpj.2020.06.008"
