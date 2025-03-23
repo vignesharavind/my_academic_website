@@ -1,6 +1,6 @@
 # --------------------------- 2025 ---------------------------
 - id: VigneshAravind2025
-  text: "Vignesharavind Subramanianbalachandar, Venkatramanan G Rao, Saurabh S Kulkarni (2024). Machine learning prediction of mesoscale ciliary flow in vivo."
+  text: "Vignesharavind Subramanianbalachandar, Venkatramanan G Rao, Saurabh S Kulkarni (2025). Machine learning prediction of mesoscale ciliary flow in vivo."
   year: 2025
   type: "article"
   authorship: "first"
@@ -16,7 +16,7 @@
   doi:
 
 - id: VigneshAravind2025
-  text: "Venkatramanan G Rao, Vignesharavind Subramanianbalachandar, Magdalena M Magaj, Stefanie Redemann, Saurabh S Kulkarni (2023). Mechanisms of cilia regeneration in Xenopus multiciliated epithelium in vivo."
+  text: "Venkatramanan G Rao, Vignesharavind Subramanianbalachandar, Magdalena M Magaj, Stefanie Redemann, Saurabh S Kulkarni (2025). Mechanisms of cilia regeneration in Xenopus multiciliated epithelium in vivo."
   year: 2025
   type: "article"
   authorship: "second"
@@ -46,6 +46,7 @@
   webappname:
   webapplink:
   doi: "https://doi.org/10.1016/j.bpj.2023.07.016"
+  
 - id: VigneshAravind2023
   text: "Vignesh Aravind Subramanian Balachandar, Robert L Steward Jr. Extracellular matrix composition alters endothelial force transmission."
   year: 2023
@@ -77,6 +78,7 @@
   webappname:
   webapplink: 
   doi: "https://doi.org/10.1002/cm.21687"
+  
 - id: VigneshAravind2021
   text: "Vignesh A Subramanianbalachandar (2021). Influence of ECM Composition and Intracellular Calcium on Endothelial Biomechanics and Prediction of Cellular Stresses Using Machine Learning."
   year: 2021
