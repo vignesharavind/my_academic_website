@@ -1,7 +1,7 @@
-# --------------------------- 2024 ---------------------------
-- id: VigneshAravind2024
+# --------------------------- 2025 ---------------------------
+- id: VigneshAravind2025
   text: "Vignesharavind Subramanianbalachandar, Venkatramanan G Rao, Saurabh S Kulkarni (2024). Machine learning prediction of mesoscale ciliary flow in vivo."
-  year: 2024
+  year: 2025
   type: "article"
   authorship: "first"
   status: "in preparation"
@@ -14,10 +14,10 @@
   webappname:
   webapplink:
   doi:
-# --------------------------- 2023 ---------------------------
-- id: VigneshAravind2023
+
+- id: VigneshAravind2025
   text: "Venkatramanan G Rao, Vignesharavind Subramanianbalachandar, Magdalena M Magaj, Stefanie Redemann, Saurabh S Kulkarni (2023). Mechanisms of cilia regeneration in Xenopus multiciliated epithelium in vivo."
-  year: 2023
+  year: 2025
   type: "article"
   authorship: "second"
   status: "published"
@@ -30,6 +30,7 @@
   webappname:
   webapplink:
   doi: "https://doi.org/10.1038/s44319-025-00414-8"
+  # --------------------------- 2023 ---------------------------
 - id: VigneshAravind2023
   text: "VigneshAravind SubramanianBalachandar; Md. Mydul Islam; R.L. Steward (2023). A machine learning approach to predict cellular mechanical stresses in response to chemical perturbation."
   year: 2023
