@@ -24,9 +24,9 @@ August 2011 -  May 2015 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.74
 
 **Tata Institute of Fundamental Research, Hyderabad, India, March 2025 to Present**
 
-Supervisor: Dr. Tamal Das
-
 **Job Title: Postdoctoral Fellow (AI/ML Morphogenesis)**
+
+Supervisor: Dr. Tamal Das
 
 •	Understanding morphogenesis of epithelial tissue development using mouse model system with the aid of AI/ML techniques
 
@@ -46,9 +46,9 @@ Supervisor: Dr. Saurabh Kulkarni
 
 **Cell Mechanics Lab, University of Central Florida, Lake Nona, FL, August 2018 to 2021**                                          
 
-Advisor: Dr. Robert L. Steward Jr.
-
 **Job Title: Research Assistant**
+
+Advisor: Dr. Robert L. Steward Jr.
 
 •	Experienced working in BSL-2 Laboratory setting, with primary focus on forming research hypothesis, conducting experiments, and performing data analysis to provide insights on cell mechanics during disease progression for targeted drug therapy
 
@@ -70,9 +70,9 @@ Advisor: Dr. Robert L. Steward Jr.
 
 **Interventional Robotics Laboratory, University of Central Florida, 2017 to 2018**
 
-Advisor: Dr. Sang-Eun Song
-
 **Job Title: Research Student**
+
+Advisor: Dr. Sang-Eun Song
 
 •	Designed an auto-hammer in SOLIDWORKS capable of providing right range of impact forces with a feedback to replace unscientific surgery procedures during total hip arthroplasty that can help prevent 7,000 hip revisions per year
 
