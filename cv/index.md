@@ -26,7 +26,7 @@ August 2011 -  May 2015 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; GPA – 3.74
 
 Supervisor: Dr. Tamal Das
 
-**Job Title: Posdoctoral Fellow (AI/ML Morphogenesis)**
+**Job Title: Postdoctoral Fellow (AI/ML Morphogenesis)**
 
 •	Understanding morphogenesis of epithelial tissue development using mouse model system with the aid of AI/ML techniques
 
